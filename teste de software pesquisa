@@ -1,0 +1,50 @@
+Conceitos:
+
+O teste de software é uma maneira de examinar o comportamento do produto
+por meio da execução,esse método é usado para garantir a qualidade
+e previnir ao maximo que não tenha tantos erros que atrapalhem quem usar o produto,
+e com isso ver até onde o software pode ser válido, em outras palavras, o teste de software
+serve para ver como funcionaria se naquele momento fosse o produto final,e para consertar
+falhas visíveis.
+
+Casos:
+
+Casos de teste, os quais fazem parte dos planos de teste, seguem exatamente esse fluxo e demonstram essencialmente se uma funcionalidade
+é operada com sucesso (passa) ou possui defeitos (falha), podendo ser executado tanto de forma manual quanto automatizada.
+Ou seja descreve uma condição particular a ser testada e é composto por valores de entrada,
+restrições para a sua execução e um resultado ou comportamento esperado.
+
+Defeito:
+
+o defeito é qualquer imperfeição ou falta de estabilidade no produto do software ou em seu processo, 
+um defeito é também uma não conformidade. O Defeito faz parte do produto,
+é algo que esta executa o código de maneira errada.
+resumindo,um defeito é algo que faz o código agir de maneira diferente de como ele deveria funcionar.
+
+Falha:
+
+Esta mais ligada ao hardware, como uma rede inacessível, queda de energia. Uma falha pode ocorrer por causa de um erro,
+por exemplo, houve um retorno de um valor não esperado, como null, isso é um erro, e por causa desse null ocasionou uma falha no sistema
+em outras palavras é uma diferença indesejável entre o observado e o esperado.
+
+Teste estático:
+
+é um tipo de método de teste de software que é executado para verificar os defeitos do software sem realmente executar o código do aplicativo de software.
+Enquanto nas verificações de Teste Dinâmico, o código é executado para detectar os defeitos é executado no estágio inicial de desenvolvimento para evitar erros,
+pois é mais fácil encontrar fontes de falhas e pode ser corrigido facilmente. Os erros que não podem ser encontrados usando o Teste Dinâmico, podem ser facilmente
+encontrados pelo Teste Estático.
+
+Teste dinâmico:
+
+Engloba todos os tipos de teste e níveis de testes de software. Executando o sistema para ser testado, sendo um método tradicional inserindo uma entrada,
+executando o sistema e conferindo uma saída. A análise estática e a dinâmica se complementam sendo as duas realizadas no sistema.
+
+critério de aceitação:
+
+Os critérios de aceitação funcional dizem como o software precisa se comportar para ajudar seus usuários a fazer seu trabalho. Eles são sobre as funções, ou recursos,
+que seu software oferece. Os critérios de aceitação não-funcionais especificam os requisitos para tudo mais.
+
+artefatos de teste:
+
+Artefatos de teste são simplesmente parte integrante do teste de software. Geralmente, são conjuntos de documentos que o testador do projeto de software obtém durante o
+STLC (Ciclo de Vida do Teste de Software). Artefatos de teste são subprodutos gerados ou criados durante a execução de testes de software.
