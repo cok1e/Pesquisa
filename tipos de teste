@@ -1,0 +1,37 @@
+Funcional:
+
+O teste funcional consiste em uma série de subtestes (técnicas), cujo objetivo é atestar se a aplicação é capaz
+de desempenhar as funções que se propõe a fazer. As técnicas mais comuns englobadas pelo teste funcional são os testes denominados caixa-branca e caixa-preta.
+O teste de caixa-branca tem como foco a análise do comportamento interno do software, ou seja, o seu código-fonte.
+Já o teste de caixa-preta é feito em cima das funções que devem ser desempenhadas pelo programa.
+
+regressão:
+
+Como o próprio nome diz, o teste de regressão é uma metodologia usada, entre outras coisas, para evitar a recorrência de um erro. Um exemplo comum de sua aplicação é quando o programador modifica o código — seja para eliminar um bug, seja para acrescentar funcionalidades — e procura identificar falhas até então inexistentes.
+Esse tipo de comprometimento pode acontecer em função de problemas previamente corrigidos em uma versão anterior. Sabe quando um sistema passa por um update e, assim que as atualizações são instaladas, fica instável? Pois bem, o teste de regressão é essencial para impedir esse tipo de situação.
+
+desempenho:
+
+Teste de desempenho é uma técnica de testes não funcionais de software, que determina como a estabilidade, velocidade,
+escalabilidade e capacidade de resposta de um aplicativo se comportam sob determinadas cargas de trabalho.
+
+aceitação:
+
+Teste de desempenho é uma técnica de testes não funcionais de software, que determina como a estabilidade, velocidade, escalabilidade e capacidade de resposta de um aplicativo se comportam sob determinadas cargas de trabalho. É uma etapa fundamental para garantir a qualidade do software, mas, infelizmente, costuma ser vista como uma etapa posterior, isolada, que começa quando o teste funcional é concluído e, na maioria dos casos, depois que o código está pronto para ser liberado.
+
+smoketest:
+
+Originado dos testes de hardware, ele serve para dizer somente se sua aplicação está respondendo corretamente ou não. Na nossa área de web, ele seria basicamente o teste de retorno das rotas e nada mais que isso,
+testes básicos que verificam as funcionalidades básicas do aplicativo. Eles devem ser rápidos para executar, e seu objetivo é dar-lhe a garantia de que as principais características do seu sistema estão funcionando como esperado.
+
+explorátorio:
+
+O teste exploratório consiste em design de teste e execução do teste ao mesmo tempo. Isso é o oposto de teste com script (procedimentos de teste predefinidos, manuais ou automatizados). Diferentes dos testes com script, os testes exploratórios não são definidos previamente e executados com exatidão conforme o plano.
+
+confirmação:
+
+Quando são feitas alterações em um sistema, seja para corrigir um defeito ou por causa de uma funcionalidade nova ou variável, deve-se testar para confirmar se as alterações corrigiram o defeito ou implementaram a funcionalidade corretamente e, principalmente, não causaram consequências adversas imprevistas.
+
+estresse:
+
+são usados para garantir a estabilidade e a confiabilidade do sistema. Os testes simulam uma alta taxa de dados e de tráfego e registram como o sistema responde nestas condições. É um dos testes mais importantes para garantir o sucesso das vendas, especialmente nas datas comerciais.
