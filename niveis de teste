@@ -1,0 +1,20 @@
+Unitário:
+
+O Teste de Componentes ou teste unitário ou de módulos, verifica o funcionamento da unidade mais pequena do código de uma aplicação
+independentemente da sua interação com outras partes do código.Geralmente, este nível de teste é realizado isoladamente do resto do sistema.
+
+sistema:
+
+Existem vários tipos de testes: Unidade, Integração, Sistema, Aceitação, Regressão, Alfa e Beta. Esses testes são realizados em momentos
+diferentes do ciclo de vida de um desenvolvimento de software.
+
+Integração:
+
+O objetivo do próximo nível de teste é verificar se as unidades combinadas trabalham bem como um grupo. Testes de integração visam
+detectar as falhas na interação entre as unidades dentro dos módulos. Existem 2 abordagens principais para este teste: Métodos de baixo
+para cima e de cima para baixo.
+
+Aceitação:
+
+Pode produzir informações para avaliar a situação do sistema, no sentido da sua implementação e utilização pelo cliente final (utilizador).
+O teste de aceitação pode também satisfazer requisitos, obrigações normativas ou regulamentos.
