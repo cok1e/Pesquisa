@@ -1,0 +1,18 @@
+elaboração:
+
+é elaborar,pensar,em um plano para o teste de software como ele vai funcionar,como ele é e pra que ele vai agir ou porque.
+
+especificações:
+
+Um plano de teste é um documento que descreve os planos de um projeto para testar um determinado software. Este documento
+normalmente inclui informações como cronograma do projeto, estratégia, metas, prazos e estimativas sobre os resultados dos testes ou possíveis desafios.
+
+ tipos de teste a serem executados no procedimento:
+
+ os tipos de testes que irão ser usados no procedimento serão:
+
+ funcional,regressivo,explorátivo,segurança e performace.
+
+registro de teste
+
+seria para registrar o que aconteceu durante o teste,e para deixar registrado para quando alguem conferir o que aconteceu para ver se estava ou não certo.
