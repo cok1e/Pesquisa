@@ -1,0 +1,24 @@
+causas:
+
+Por que as falhas de software acontecem? Uma das causas principais de falhas de software é o erro humano na programação das aplicações.
+Isso ocorre muitas vezes durante o processo de codificação, mas pode surgir também em outras etapas do ciclo de vida de desenvolvimento.
+
+ciclo de vida:
+
+Podemos afirmar que os defeitos são encontrados por meio da execução formal dos testes (testes estruturais ou funcionais), durante a utilização do sistema em produção ou
+ até mesmo, por acidente. A priori, podemos classificar os defeitos nas seguintes categorias:
+
+Faltante (Missing): O defeito ocorre em virtude da falta parcial ou total de um requisito;
+
+Errado (Wrong): O defeito ocorre porque o requisito foi implementado incorretamente;
+
+Acréscimo (Extra): O defeito ocorre em virtude de um comportamento ou elemento que foi implementado, mas foi não especificado no requisito.
+
+consequência:
+
+a consequência de um de fazer um software sem essa gestão de defeitos seria um mal funcionamento do produto final.
+
+regra de 10 de Myers
+
+A regra 10 de Myers apresenta que o custo da correção de um defeito tende a aumentar quanto mais tarde ele for encontrado. Os defeitos encontrados nas fases iniciais do
+projeto de desenvolvimento do software são mais baratos do que aqueles encontrados na produção
