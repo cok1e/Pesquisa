@@ -1,0 +1,19 @@
+Step-by-step:
+
+é um metodo de teste feito passo a passo (step-by-step)
+
+pairwise:
+
+A técnica de Pairwise consiste em testar um software sem ter que utilizar 100% das possibilidades de variações existentes,
+o que em determinados casos pode gerar anos de execução de casos de teste.
+
+gráfico de causa e efeito:
+
+Diagrama de causa e efeito, também conhecido como Diagrama de Ishikawa ou como Diagrama Espinha de Peixe, é uma importante
+ferramenta de qualidade. Seu objetivo principal é orientar a análise de causas raízes de um problema pré-determinado.
+
+classe de equivalente e valores limites:
+
+O Teste de Classe de Equivalência, também conhecido como Particionamento de Classe de Equivalência (ECP) e Particionamento de
+Equivalência , é uma técnica de teste de software usada para agrupar e particionar os dados de entrada do teste, que são então usados ​​par
+fins de testar o produto de software em várias classes diferentes
