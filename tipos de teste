@@ -35,3 +35,26 @@ Quando são feitas alterações em um sistema, seja para corrigir um defeito ou 
 estresse:
 
 são usados para garantir a estabilidade e a confiabilidade do sistema. Os testes simulam uma alta taxa de dados e de tráfego e registram como o sistema responde nestas condições. É um dos testes mais importantes para garantir o sucesso das vendas, especialmente nas datas comerciais.
+
+carga:
+
+o software, assim como o hardware, pode apresentar problemas quando recebe cargas altas de processos e requisições? Isso acontece justamente para mensurar se as condições nas quais ele será submetido não vão comprometer o seu desempenho.
+Contudo, imprevisivelmente, a sobrecarga pode acontecer durante a utilização, gerando o que chamamos “estresse”. Como descobrir o nível de tensão capaz de levar o software a parar de funcionar? Nesse caso, é executado o teste de estresse, que consiste em simular eventos de carga excessiva, forçando o software ao extremo.
+
+volume:
+
+O Teste de Volume é um tipo de teste de software realizado para testar um aplicativo de software com uma determinada quantidade de dados. A quantidade usada no teste de volume pode ser um tamanho de banco de dados ou também pode ser o tamanho de um arquivo de interface que está sujeito ao teste de volume.
+
+recuperação:
+
+Teste de recuperação, no contexto da engenharia de software, é um teste utilizado para verificar a robustez e também a capacidade de um determinado software para retornar a um estado operacional após estar em um estado de falha.
+
+segurança:
+
+Por sua vez, o teste de segurança é um dos mais importantes da lista, sobretudo quando falamos em software corporativo. Afinal, a proteção dos dados é imprescindível a toda e qualquer empresa que armazena informações no ambiente virtual — que é repleto de ameaças.
+Esse teste é realizado por uma equipe especializada em Segurança da Informação, incumbida de avaliar se há brechas de segurança a partir de procedimentos, tais como análise de vulnerabilidade, coleta de informações e violação de senha.
+Dessa maneira, o produto final só é entregue ao cliente quando os requisitos de segurança são devidamente preenchidos, garantindo à empresa que suas informações ficarão protegidas contra invasão cibernética.
+
+manual e automatizado:
+
+O teste manual é adequado quando os casos de teste são executados uma ou duas vezes. Portanto, não há repetição frequente de casos de teste. O teste automatizado é adequado quando os casos de teste precisam ser executados repetidamente por um longo período de tempo.
