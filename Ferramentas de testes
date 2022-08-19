@@ -1,0 +1,17 @@
+mantis:
+
+Mantis Bug Tracking é uma ferramenta WEB open source, desenvolvida em PHP, customizável e totalmente balanceada entre simplicidade e desempenho para controle de bugs.
+Essa ferramenta suporta muitos sistemas de banco de dados, são eles: MySQL, MS SQL, PostgreSQL e DB2.
+
+test link:
+
+O Testlink é uma ferramenta open source para o gerenciamento de testes. Ele permite o cadastro de planos e casos de testes bem como o controle de execução dos testes.
+Funcionalmente, a ferramenta permite que sejam cadastrados Projetos de Teste, bem como seus respectivos Planos e Casos de testes à serem validados. Então, a partir da definição do escopo do projeto de teste, é possível controlar e armazenar a execução dos casos de teste especificados
+
+JUnit:
+
+O JUnit é um framework open-source, que se assemelha ao raio de testes software java, criado por Erich Gamma e Kent Beck, com suporte à criação de testes automatizados na linguagem de programação Java. Esse framework facilita a criação e manutenção do código para a automação de testes com apresentação dos resultados.
+
+Selenium:
+
+Selenium é um conjunto de ferramentas de códigos aberto multiplataforma,usado para testar aplicações web pelo browser de forma automatizada.Ele executa testes de funcionalidade da aplicação web testes de compatibilidade entre browser e plataformas diferentes.
