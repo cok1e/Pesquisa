@@ -1,0 +1,13 @@
+o que é o teste caixa branca e o que ela faz?
+
+O teste de caixa branca possui esse nome porque o testador tem acesso à estrutura interna da aplicação.
+Logo, seu foco é garantir que os componentes do software estejam concisos.
+Nesse sentido, esse tipo de teste também é conhecido como teste estrutural ou caixa de vidro,
+já que busca garantir a qualidade na implementação do sistema. Logo, ele tem por objetivo validar, apenas, a lógica do produto.
+
+o que é o teste caixa preta e o que ela faz?
+
+Diferente do teste de caixa branca, ele possui esse nome porque o código-fonte é ignorado no teste. Assim, ao se utilizar dessa técnica,
+o tester não está preocupado com os elementos constitutivos do software, mas em como ele funciona.
+Nesse sentido, esse tipo de teste também é conhecido como teste funcional, já que busca garantir que os requisitos funcionais do produto estão consistentes.
+Logo, ele tem por objetivo validar as entradas e saídas do sistema.
